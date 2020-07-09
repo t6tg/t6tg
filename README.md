@@ -6,9 +6,4 @@
 
 - 🐶 &nbsp; I Love dog's
 
-| 💫 &nbsp; Skills | 💅 | 🟦 | 🟨 | 🔥 | ☕️ |
-|:---:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 🍕🧀 | <b>React</b> | <b>Typescript</b> | <b>Javascript</b> | <b>Firebase</b> | <b>Java</b> |
-
-
 
