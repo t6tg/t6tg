@@ -2,7 +2,7 @@
 
 ### 👋 &nbsp; Hi , I'm James
 
-- 🎓 &nbsp; I'm studing Computer Science at king mongkut's university of technology north bangkok ( KMUTNB )
+- 🎓 &nbsp; I'm studing in Computer Science at king mongkut's university of technology north bangkok ( KMUTNB )
 
 - 💅 &nbsp; I Love React
 
