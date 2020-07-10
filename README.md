@@ -4,7 +4,7 @@
 
 - 🎓 &nbsp; I'm studing in Computer Science at king mongkut's university of technology north bangkok ( KMUTNB )
 
-- 🐶 &nbsp; I Love dog's
+- 🐶 &nbsp; I Love dog's [ Dog Lover ♥️ ]
 
 ### 💫 &nbsp; Skills
 | 💅 | 🐦 | 🌼 | 🔥 | ☕️ |
