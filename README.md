@@ -1,4 +1,4 @@
-<img src="https://media.tenor.com/images/2d4569ad19e5167b53c9e6e2acf89e7c/tenor.gif" alt="sitama" width="100"/>
+<img src="https://i.imgur.com/V9ejwRi.gif" alt="sitama" width="150"/>
 
 ### :octocat: &nbsp; Hi , I'm James
 
