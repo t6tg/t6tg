@@ -1,4 +1,4 @@
-<img src="https://media3.giphy.com/media/dWfi1Llz4ud1ixRIcW/giphy.gif" alt="sitama" width="150"/>
+<img src="https://media3.giphy.com/media/dWfi1Llz4ud1ixRIcW/giphy.gif" alt="HappyDog" width="150"/>
 
 ### :octocat: &nbsp; Hi , I'm James
 
