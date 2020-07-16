@@ -16,3 +16,5 @@
 😋  Learn more front-end and backend technology 
 </pre>
  
+ 
+![My github stats](https://github-readme-stats.vercel.app/api?username=thanawatgulati&show_icons=true)
