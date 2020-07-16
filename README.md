@@ -1,5 +1,5 @@
 <!-- <img src="https://media3.giphy.com/media/dWfi1Llz4ud1ixRIcW/giphy.gif" alt="HappyDog" width="150"/> -->
-![My github stats](https://github-readme-stats.vercel.app/api?username=thanawatgulati&show_icons=true&hide_border=true&text_color=ED8936&icon_color=DD6B20&title_color=DD6B20)
+![My github stats](https://github-readme-stats.vercel.app/api?username=thanawatgulati&show_icons=true&text_color=ED8936&icon_color=DD6B20&title_color=DD6B20)
 
 ### :octocat: &nbsp; Hi , I'm James
 
