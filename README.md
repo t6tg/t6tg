@@ -8,9 +8,9 @@
 - 🐶 &nbsp; I Love dog's [ Dog Lover ♥️ ]
 
 ### 💫 &nbsp; Skills
-| 💅 | 🐦 | 🌼 | 🔥 | ☕️ |
-|:-----:|:-----:|:-----:|:-----:|:-----:|
-| <b>React</b> | <b>Typescript</b> | <b>Javascript</b> | <b>Firebase</b> | <b>Java</b> |
+| <img src="https://i.ibb.co/Gdy6nyV/new.gif" alt="new" width="30"/> | 💅 | 🐦 | 🌼 | 🔥 | ☕️ |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+| <b>Redux [ Basic ]</b> | <b>React</b> | <b>Typescript</b> | <b>Javascript</b> | <b>Firebase</b> | <b>Java</b> |
 
 ### ⛳️  &nbsp; Goals in 2020
 <pre>
