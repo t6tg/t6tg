@@ -8,7 +8,7 @@
 - 🐶 &nbsp; I Love dog's [ Dog Lover ♥️ ]
 
 ### 💫 &nbsp; Skills
-| <img src="https://i.ibb.co/Gdy6nyV/new.gif" alt="new" width="30"/> | 💅 | 🐦 | 🌼 | 🔥 | ☕️ | 🌳 |
+| 🦆 | 💅 | 🐦 | 🌼 | 🔥 | ☕️ | 🌳 |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 | <b>Redux [ Basic ]</b> | <b>React</b> | <b>Typescript</b> | <b>Javascript</b> | <b>Firebase</b> | <b>Java</b> | <b>SQL</b> |
 
@@ -17,4 +17,4 @@
 😋  Learn more front-end and backend technology 
 </pre>
  
- 
+ <!-- <img src="https://i.ibb.co/Gdy6nyV/new.gif" alt="new" width="30"/> -->
