@@ -21,7 +21,7 @@
 😋  Learn more Technology :)
 ⛺️  YWC CAMP 2020
 👨‍💻  MS Spark Developer #0 ( ✅ Complete )
-👩‍🚀  MS Learn Student Ambassador
+👩‍🚀  MS Learn Student Ambassadors
 </pre>
  
  <!-- <img src="https://i.ibb.co/Gdy6nyV/new.gif" alt="new" width="30"/> -->
