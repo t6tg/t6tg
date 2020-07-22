@@ -10,11 +10,17 @@
 ### 💫 &nbsp; Skills
 | 🦆 | 💅 | 🐦 | 🌼 | 🔥 | ☕️ | 🌳 |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| <b>Redux [ Basic ]</b> | <b>React</b> | <b>Typescript</b> | <b>Javascript</b> | <b>Firebase</b> | <b>Java</b> | <b>SQL</b> |
+| <b>Redux [ Basic ]</b> | <b>React</b> | <b>Typescript</b> | <b>Javascript</b> | <b>Firebase</b> | <b>Java</b> | <b>SQL/NoSQL</b> |
 
+### 📝 &nbsp; Now Learning
+- More Concept of Redux and React 
+- Vuejs
 ### ⛳️  &nbsp; Goals in 2020
 <pre>
-😋  Learn more front-end and backend technology 
+😋  Learn more Technology :)
+⛺️  YWC CAMP 2020
+👨‍💻  MS Spark Developer #0 ( ✅ Complete )
+🧠  MS Learn Student Ambassador
 </pre>
  
  <!-- <img src="https://i.ibb.co/Gdy6nyV/new.gif" alt="new" width="30"/> -->
