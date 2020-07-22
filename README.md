@@ -8,9 +8,9 @@
 - 🐶 &nbsp; I Love dog's [ Dog Lover ♥️ ]
 
 ### 💫 &nbsp; Skills
-| 🦆 | 💅 | 🐦 | 🌼 | 🔥 | ☕️ | 🌳 |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| <b>Redux [ Basic ]</b> | <b>React</b> | <b>Typescript</b> | <b>Javascript</b> | <b>Firebase</b> | <b>Java</b> | <b>SQL/NoSQL</b> |
+| 🦆 | 💅 | 🐦 | 🌼 | ☕️ | 🌳 |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+| <b>Redux [ Basic ]</b> | <b>React</b> | <b>Typescript</b> | <b>Javascript</b>  | <b>Java</b> | <b>SQL</b> |
 
 ### <img src="https://i.ibb.co/Gdy6nyV/new.gif" alt="new" width="30"/> &nbsp; Now Learning
 - More Concept of Redux and React 
