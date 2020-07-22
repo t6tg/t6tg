@@ -15,6 +15,7 @@
 ### <img src="https://i.ibb.co/Gdy6nyV/new.gif" alt="new" width="30"/> &nbsp; Now Learning
 - More Concept of Redux and React 
 - Vuejs
+- NextJS and other SSR
 ### ⛳️  &nbsp; Goals in 2020
 <pre>
 😋  Learn more Technology :)
