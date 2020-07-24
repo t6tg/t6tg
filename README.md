@@ -23,7 +23,7 @@
 👨‍💻  MS Spark Developer #0 ( ✅ Complete ).
 👩‍🚀  MS Learn Student Ambassadors.
 📄  AZ-900 and DP-100 Certificate.
-🔥  Google Developer Student Lead Thailand ( ✅ Complete ).
+🔥  Google Developer Student Club Thailand ( ✅ Complete ).
 </pre>
  
  <!-- <img src="https://i.ibb.co/Gdy6nyV/new.gif" alt="new" width="30"/> -->
