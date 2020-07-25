@@ -13,7 +13,7 @@
 | <b>Redux [ Basic ]</b> | <b>React</b> | <b>Typescript</b> | <b>Javascript</b>  | <b>Java</b> | <b>SQL</b> |
 
 ### <img src="https://i.ibb.co/Gdy6nyV/new.gif" alt="new" width="30"/> &nbsp; Now Learning
-- More Concept of Redux and React 
+- More Concept in Redux and React 
 - Vuejs
 - NextJS and other SSR
 ### ⛳️  &nbsp; Goals in 2020
