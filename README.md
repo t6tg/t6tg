@@ -7,7 +7,7 @@
 
 - 🐶 &nbsp; I Love dog's [ Dog Lover ♥️ ]
 - ⛄️ &nbsp; Microsoft Student Spark Developer 🇹🇭
-- 🍋 &nbsp; Google Developer Student Club Lead 🇹🇭
+<!-- - 🍋 &nbsp; Google Developer Student Club Lead 🇹🇭 -->
 
 ### 💫 &nbsp; Skills
 | 🦆 | 💅 | 🐦 | 🌼 | ☕️ | 🌳 |
