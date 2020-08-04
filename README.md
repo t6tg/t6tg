@@ -26,7 +26,7 @@
 👨‍💻  Microsoft Spark Developer #0 ( ✅ Complete ).
 👩‍🚀  Microsoft Learn Student Ambassadors.
 📄  AZ-900 and DP-100 Certificate.
-🔥  GDeveloper Student Club Lead Powered by Google ( ✅ Complete ).
+🔥  Developer Student Club Lead Powered by Google ( ✅ Complete ).
 </pre>
  
 
