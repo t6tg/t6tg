@@ -8,7 +8,7 @@
 - 🐶 &nbsp; I Love dog's [ Dog Lover ♥️ ]
 - ⛄️ &nbsp; Microsoft Student Spark Developer 🇹🇭
 - 👨‍💼 &nbsp; Content Creators <a href="https://www.facebook.com/dekcomth" title="DekcomTH Facebook Page">@dekcomth</a>
-- 🍋 &nbsp; Developer Student Club Lead Powered by Google🇹🇭 
+- 🍋 &nbsp; Developer Student Club Lead Powered by Google 🌎
 
 ### 💫 &nbsp; Skills
 | 🦆 | 💅 | 🐦 | 🌼 | ☕️ | 🌳 |
