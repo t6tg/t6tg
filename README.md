@@ -8,7 +8,7 @@
 - 🐶 &nbsp; I Love dog's [ Dog Lover ♥️ ]
 - ⛄️ &nbsp; Microsoft Student Spark Developer 🇹🇭
 - 👨‍💼 &nbsp; Content Creators <a href="https://www.facebook.com/dekcomth" title="DekcomTH Facebook Page">@dekcomth</a>
-<!-- - 🍋 &nbsp; Google Developer Student Club Lead 🇹🇭 -->
+- 🍋 &nbsp; Google Developer Student Club Lead 🇹🇭 
 
 ### 💫 &nbsp; Skills
 | 🦆 | 💅 | 🐦 | 🌼 | ☕️ | 🌳 |
@@ -26,7 +26,8 @@
 👨‍💻  Microsoft Spark Developer #0 ( ✅ Complete ).
 👩‍🚀  Microsoft Learn Student Ambassadors.
 📄  AZ-900 and DP-100 Certificate.
+🔥  Google Developer Student Club Thailand ( ✅ Complete ).
 </pre>
  
- <!-- 🔥  Google Developer Student Club Thailand ( ✅ Complete ).-->
+
  <!-- <img src="https://i.ibb.co/Gdy6nyV/new.gif" alt="new" width="30"/> -->
