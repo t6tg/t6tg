@@ -9,12 +9,12 @@
 - ⛄️ &nbsp; Microsoft Student Spark Developer 🇹🇭
 - 👨‍💼 &nbsp; Content Creators <a href="https://www.facebook.com/dekcomth" title="DekcomTH Facebook Page">@dekcomth</a>
 - 🍋 &nbsp; Developer Student Club Lead Powered by Google 🌎
-
+<!--
 ### 💫 &nbsp; Skills
 | 🦆 | 💅 | 🐦 | 🌼 | ☕️ | 🌳 |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 | <b>Redux [ Basic ]</b> | <b>React</b> | <b>Typescript</b> | <b>Javascript</b>  | <b>Java</b> | <b>SQL</b> |
-
+-->
 ### <img src="https://i.ibb.co/Gdy6nyV/new.gif" alt="new" width="30"/> &nbsp; Now Learning
 - More Concept in Redux and React 
 - Vuejs
