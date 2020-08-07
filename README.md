@@ -9,6 +9,7 @@
 - ⛄️ &nbsp; Microsoft Student Spark Developer 🇹🇭
 - 👨‍💼 &nbsp; Content Creators <a href="https://www.facebook.com/dekcomth" title="DekcomTH Facebook Page">@dekcomth</a>
 - 🍋 &nbsp; Developer Student Club Lead Powered by Google 🌎
+- 🚀 &nbsp; Microsoft Learn Student Ambassadors 🌟 🇹🇭
 <!--
 ### 💫 &nbsp; Skills
 | 🦆 | 💅 | 🐦 | 🌼 | ☕️ | 🌳 |
@@ -24,7 +25,7 @@
 😋  Learn more Technology :).
 ⛺️  YWC CAMP 2020.
 👨‍💻  Microsoft Spark Developer #0 ( ✅ Complete ).
-👩‍🚀  Microsoft Learn Student Ambassadors.
+👩‍🚀  Microsoft Learn Student Ambassadors ( ✅ Complete ).
 📄  AZ-900 and DP-100 Certificate.
 🔥  Developer Student Club Lead Powered by Google ( ✅ Complete ).
 </pre>
