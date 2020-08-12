@@ -18,8 +18,9 @@
 -->
 ### <img src="https://i.ibb.co/Gdy6nyV/new.gif" alt="new" width="30"/> &nbsp; Now Learning
 - More Concept in Redux and React 
-- Vuejs
-- NextJS and other SSR
+- Blockchain and Smart Contract
+- Golang
+- Python ML or Data Science
 ### ⛳️  &nbsp; Goals in 2020
 <pre>
 😋  Learn more Technology :).
