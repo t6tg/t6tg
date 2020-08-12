@@ -28,6 +28,7 @@
 👩‍🚀  Microsoft Learn Student Ambassadors ( ✅ Complete ).
 📄  AZ-900 and DP-100 Certificate.
 🔥  Developer Student Club Lead Powered by Google ( ✅ Complete ).
+💼  Internship at top tech co.
 </pre>
  
 
