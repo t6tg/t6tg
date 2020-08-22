@@ -21,7 +21,7 @@
 - Blockchain and Smart Contract
 - Golang
 - Python ML or Data Science
-### ⛳️  &nbsp; Goals in 2020
+### ⛳️  &nbsp; Goals in 2020 ~ 2021(Q1)
 <pre>
 😋  Learn more Technology :).
 ⛺️  YWC CAMP 2020.
