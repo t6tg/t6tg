@@ -17,7 +17,7 @@
 | <b>Redux [ Basic ]</b> | <b>React</b> | <b>Typescript</b> | <b>Javascript</b>  | <b>Java</b> | <b>SQL</b> |
 -->
 ### <img src="https://i.ibb.co/Gdy6nyV/new.gif" alt="new" width="30"/> &nbsp; Now Learning
-- More Concept in Redux and React 
+- More Concept in (State Management) and React 
 - Blockchain and Smart Contract
 - Golang
 - Python ML or Data Science
