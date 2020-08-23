@@ -20,7 +20,8 @@
 - More Concept in (State Management) and React 
 - Blockchain and Smart Contract
 - Golang
-- Python ML or Data Science
+- Web Technology and Performance
+- CI/CD Tools
 ### ⛳️  &nbsp; Goals in 2020 ~ 2021(Q1)
 <pre>
 😋  Learn more Technology :).
