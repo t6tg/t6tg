@@ -10,7 +10,6 @@
 - Typescript
 - PHP
 - NextJS / ReactJS
-- Go
 - Firebase
 
 --- 
