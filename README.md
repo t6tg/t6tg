@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 🐈
 
 <img src="https://c.tenor.com/m8GRjiBbpdUAAAAM/shiroko.gif" alt="t6tg-cover" />
 
