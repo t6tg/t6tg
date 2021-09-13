@@ -1,6 +1,6 @@
 ### Hi there 🐈
 
-<img width="500" src="https://thumbs.gfycat.com/BasicDamagedBoto-size_restricted.gif" loading="lazy" alt="t6tg-cover" />
+<img width="500" src="https://thumbs.gfycat.com/BasicDamagedBoto-size_restricted.gif" alt="t6tg-cover" />
 
 - 🔭 I’m currently working on Dek-D Interactive Co,.Ltd ( [@Dek-D](https://dek-d.com) )
 - 🌱 I’m currently learning Go Rust Elixir and Kotlin ( android )
