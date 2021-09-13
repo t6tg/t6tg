@@ -3,7 +3,7 @@
 <img src="https://c.tenor.com/m8GRjiBbpdUAAAAM/shiroko.gif" alt="t6tg-cover" />
 
 - 🔭 I’m currently working on Dek-D Interactive Co,.Ltd ( @Dek-D )
-- 🌱 I’m currently learning Go Rust and Elixir
+- 🌱 I’m currently learning Go Rust Elixir and Kotlin ( android )
 - 🐟 I'm currently studing at KMUTNB Y.4
 
 ### Familiar with:
@@ -11,6 +11,9 @@
 - PHP
 - NextJS / ReactJS
 - html / css
+
+### Social 
+- 🐦 twitter: @t6tg_
 
 --- 
 
