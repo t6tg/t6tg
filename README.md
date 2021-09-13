@@ -10,7 +10,7 @@
 - Typescript
 - PHP
 - NextJS / ReactJS
-- Firebase
+- html / css
 
 --- 
 
