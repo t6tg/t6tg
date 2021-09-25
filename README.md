@@ -18,6 +18,8 @@
 ### Social 
 - 🐦 twitter: [@t6tg_](https://twitter.com/t6tg_)
 
+### CV / Resume
+- [Thanawat Gulati](https://to.t6tg.com/rsm)
 --- 
 
 [![T6TG's GitHub stats](https://github-readme-stats.vercel.app/api?username=t6tg&count_private=true)](https://t6tg.com)
