@@ -17,6 +17,7 @@
 
 ### Social 
 - 🐦 twitter: [@t6tg_](https://twitter.com/t6tg_)
+- 🌸 Instagram: [m.mjames](https://instagram.com/m.mjames)
 
 ### CV / Resume
 - [Thanawat Gulati](https://to.t6tg.com/rsm)
