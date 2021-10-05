@@ -11,6 +11,7 @@
 ### Familiar with:
 - Typescript
 - PHP
+- Go
 - NextJS / ReactJS
 - html / css
 
