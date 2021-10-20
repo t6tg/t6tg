@@ -20,7 +20,7 @@
 - 🌸 Instagram: [m.mjames](https://instagram.com/m.mjames)
 
 ### CV / Resume
-- [Thanawat Gulati](https://to.t6tg.com/rsm)
+- [Thanawat Gulati](https://to.t6tg.com/resume)
 --- 
 
 [![T6TG's GitHub stats](https://github-readme-stats.vercel.app/api?username=t6tg&count_private=true)](https://t6tg.com)
