@@ -28,9 +28,3 @@
 
 ### CV / Resume
 - [Thanawat Gulati](https://to.t6tg.com/resume)
---- 
-
-[![T6TG's GitHub stats](https://github-readme-stats.vercel.app/api?username=t6tg&count_private=true)](https://t6tg.com)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=t6tg&layout=compact)](https://t6tg.com)
-
