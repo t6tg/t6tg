@@ -13,7 +13,14 @@
 - PHP
 - Go
 - NextJS / ReactJS
-- html / css
+- GraphQL
+
+### Interesting In and Planning to Learn in 2021 - 2022
+- Prisma
+- ZeroMQ
+- Microservice with Go
+- Rust
+- Flutter
 
 ### Social 
 - 🐦 twitter: [@t6tg_](https://twitter.com/t6tg_)
