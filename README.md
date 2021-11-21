@@ -1,6 +1,6 @@
 ### Hi there 🐈
 
-<img width="50" src="https://github.githubassets.com/images/mona-loading-default.gif"  loading="lazy" alt="t6tg-cover" />
+<img width="100" src="https://walfiegif.files.wordpress.com/2020/12/out-transparent-2.gif"  loading="lazy" alt="t6tg-cover" />
 
 <!-- <img width="500" src="https://thumbs.gfycat.com/BasicDamagedBoto-size_restricted.gif" loading="lazy" alt="t6tg-cover" /> -->
 
