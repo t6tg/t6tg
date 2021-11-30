@@ -9,9 +9,9 @@
 - 🐟 I'm currently studing at KMUTNB Y.4
 
 ### Familiar with:
+- Go
 - Typescript
 - PHP
-- Go
 - NextJS / ReactJS
 - GraphQL
 
