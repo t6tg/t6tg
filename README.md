@@ -28,3 +28,6 @@
 
 ### CV / Resume
 - [Thanawat Gulati](https://to.t6tg.com/resume)
+
+### LinkedIn
+- [Linkedin](https://linkedin.com/in/thanawatgulati)
