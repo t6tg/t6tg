@@ -12,8 +12,8 @@ type aboutMe struct {
   pronouns    []string
   languages   []string
   hobbies     []string
-  interesting []string
-  framework   []string
+  interests   []string
+  frameworks  []string
   work        string
 }
 
@@ -30,8 +30,8 @@ func main() {
   fmt.Printf("Pronouns: %v\n", t6tg.pronouns)
   fmt.Printf("Languages I Know: %v\n", t6tg.languages)
   fmt.Printf("My Hobbies: %v\n", t6tg.hobbies)
-  fmt.Printf("Interesting in: %v\n", t6tg.interesting)
-  fmt.Printf("Familiar Framework: %v\n", t6tg.framework)
+  fmt.Printf("Interesting in: %v\n", t6tg.interests)
+  fmt.Printf("Familiar Framework: %v\n", t6tg.frameworks)
   fmt.Printf("Work: %s\n", t6tg.work)
 }
 ```
