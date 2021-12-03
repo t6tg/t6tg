@@ -8,19 +8,34 @@
 - 🌱 I’m currently learning Go Rust C# and Elixir 🥁 
 - 🐟 I'm currently studing at KMUTNB Y.4
 
-### Familiar with:
-- Go
-- Typescript
-- PHP
-- NextJS / ReactJS
-- GraphQL
+```go
+type aboutMe struct {
+  pronouns    []string
+  languages   []string
+  hobbies     []string
+  interesting []string
+  framework   []string
+  work        string
+}
 
-### Interesting In and Planning to Learn in 2021 - 2022
-- Prisma
-- ZeroMQ
-- Microservice with Go
-- Rust
-- Flutter
+func main() {
+  t6tg := aboutMe {
+    pronouns: ["He", "Him"],
+    languages: ["Go", "PHP", "GraphQL", "Typescript"],
+    hobbies: ["Watching", "Coding"],
+    interesting: ["Prisma", "ZeroMQ", "Microservice with Go", "Rust", "Flutter"]
+    framework: ["Reactjs", "NextJS", "NestJS", "Gin"]
+    work: "Backend Developer @Dek-D"
+  }
+  
+  fmt.Printf("Pronouns: %v\n", t6tg.pronouns)
+  fmt.Printf("Languages I Know: %v\n", t6tg.languages)
+  fmt.Printf("My Hobbies: %v\n", t6tg.hobbies)
+  fmt.Printf("Interesting in: %v\n", t6tg.interesting)
+  fmt.Printf("Familiar Framework: %v\n", t6tg.framework)
+  fmt.Printf("Work: %s\n", t6tg.work)
+}
+```
 
 ### Social 
 - 🐦 twitter: [@t6tg_](https://twitter.com/t6tg_)
