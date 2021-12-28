@@ -8,6 +8,10 @@
 - 🐟 I'm currently studing at KMUTNB Y.4
 
 ```go
+package main
+
+import "fmt"
+
 type aboutMe struct {
   pronouns    []string
   languages   []string
