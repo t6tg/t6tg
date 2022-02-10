@@ -18,6 +18,8 @@ type aboutMe struct {
   hobbies     []string
   interests   []string
   frameworks  []string
+  databases   []string
+  etc         []string
   work        string
 }
 
@@ -28,6 +30,8 @@ func main() {
     hobbies: ["Watching", "Coding"],
     interesting: ["Prisma", "ZeroMQ", "Microservice with Go", "Rust", "Flutter"]
     framework: ["Reactjs", "NextJS", "NestJS", "Gin", "Fiber", "Expressjs"]
+    databases: ["MongoDB", "MariaDB", "SQL", "SQLite"]
+    etc: ["Elasticsearch", "nginx", "k8s", "docker"]
     work: "Backend Developer @Dek-D"
   }
   
@@ -36,6 +40,8 @@ func main() {
   fmt.Printf("My Hobbies: %v\n", t6tg.hobbies)
   fmt.Printf("Interesting in: %v\n", t6tg.interests)
   fmt.Printf("Familiar Framework: %v\n", t6tg.frameworks)
+  fmt.Printf("Database: %v\n", t6tg.databases)
+  fmt.Printf("Etc: %v\n", t6tg.etc)
   fmt.Printf("Work: %s\n", t6tg.work)
 }
 ```
