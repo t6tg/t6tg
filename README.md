@@ -27,7 +27,7 @@ func main() {
   t6tg := aboutMe {
     pronouns: ["He", "Him"],
     languages: ["Go", "PHP", "GraphQL", "Typescript"],
-    hobbies: ["Watching", "Coding"],
+    hobbies: ["Watching Anime", "Coding"],
     interesting: ["Prisma", "ZeroMQ", "Microservice with Go", "Rust", "Flutter"]
     framework: ["Reactjs", "NextJS", "NestJS", "Gin", "Fiber", "Expressjs"]
     databases: ["MongoDB", "MariaDB", "SQL", "SQLite"]
