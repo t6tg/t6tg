@@ -4,7 +4,7 @@
 
 <!-- <img width="500" src="https://thumbs.gfycat.com/PowerlessPlumpBabirusa-max-1mb.gif" loading="lazy" alt="t6tg-cover" /> -->
 
-- 🔭 I’m currently working (Part-time) on Dek-D Interactive Co,.Ltd ( [Writer Dev @Dek-D](https://novel.dek-d.com) )
+- 🔭 I’m currently working (Part-time) at Dek-D Interactive Co,.Ltd ( [Writer Dev @Dek-D](https://novel.dek-d.com) )
 - 🐟 I'm currently studing at KMUTNB Y.4
 
 ```go
@@ -27,7 +27,7 @@ func main() {
     languages: ["Go", "PHP", "GraphQL", "Typescript"],
     hobbies: ["Watching", "Coding"],
     interesting: ["Prisma", "ZeroMQ", "Microservice with Go", "Rust", "Flutter"]
-    framework: ["Reactjs", "NextJS", "NestJS", "Gin"]
+    framework: ["Reactjs", "NextJS", "NestJS", "Gin", "Fiber", "Expressjs"]
     work: "Backend Developer @Dek-D"
   }
   
