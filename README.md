@@ -26,12 +26,12 @@ type aboutMe struct {
 func main() {
   t6tg := aboutMe {
     pronouns: ["He", "Him"],
-    languages: ["Go", "PHP", "GraphQL", "Typescript", "Java"],
+    languages: ["Go", "PHP", "Typescript", "Java"],
     hobbies: ["Watching Anime", "Coding"],
     interesting: ["Prisma", "ZeroMQ", "Microservice with Go", "Rust", "Flutter"]
     framework: ["Reactjs", "NextJS", "NestJS", "Gin", "Fiber", "Expressjs"]
     databases: ["MongoDB", "MariaDB", "SQL", "SQLite"]
-    etc: ["Elasticsearch", "nginx", "k8s", "docker"]
+    etc: ["Elasticsearch","GraphQL", "nginx", "k8s", "docker"]
     work: "Backend Developer @Dek-D"
   }
   
