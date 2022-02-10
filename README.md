@@ -26,7 +26,7 @@ type aboutMe struct {
 func main() {
   t6tg := aboutMe {
     pronouns: ["He", "Him"],
-    languages: ["Go", "PHP", "GraphQL", "Typescript"],
+    languages: ["Go", "PHP", "GraphQL", "Typescript", "Java"],
     hobbies: ["Watching Anime", "Coding"],
     interesting: ["Prisma", "ZeroMQ", "Microservice with Go", "Rust", "Flutter"]
     framework: ["Reactjs", "NextJS", "NestJS", "Gin", "Fiber", "Expressjs"]
