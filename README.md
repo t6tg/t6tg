@@ -1,6 +1,7 @@
 ### Hi there 🐈
 
-<img width="100" src="https://thumbs.gfycat.com/PowerlessPlumpBabirusa-max-1mb.gif"  loading="lazy" alt="t6tg-cover" />
+<!-- <img width="100" src="https://thumbs.gfycat.com/PowerlessPlumpBabirusa-max-1mb.gif"  loading="lazy" alt="t6tg-cover" /> -->
+[![t6tg's GitHub stats](https://github-readme-stats.vercel.app/api?username=t6tg)](https://github.com/t6tg)
 
 <!-- <img width="500" src="https://thumbs.gfycat.com/PowerlessPlumpBabirusa-max-1mb.gif" loading="lazy" alt="t6tg-cover" /> -->
 
@@ -45,10 +46,10 @@ func main() {
   fmt.Printf("Work: %s\n", t6tg.work)
 }
 ```
-
+<!-- 
 ### Social 
 - 🐦 twitter: [@t6tg_](https://twitter.com/t6tg_)
-- 🌸 Instagram: [m.mjames](https://instagram.com/m.mjames)
+- 🌸 Instagram: [m.mjames](https://instagram.com/m.mjames) -->
 
 ### CV / Resume
 - [Thanawat Gulati](https://to.t6tg.com/resume)
