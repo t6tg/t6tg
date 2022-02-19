@@ -1,7 +1,7 @@
 ### Hi there 🐈
 
 <!-- <img width="100" src="https://thumbs.gfycat.com/PowerlessPlumpBabirusa-max-1mb.gif"  loading="lazy" alt="t6tg-cover" /> -->
-[![t6tg's GitHub stats](https://github-readme-stats.vercel.app/api?username=t6tg)](https://github.com/t6tg)
+<!-- [![t6tg's GitHub stats](https://github-readme-stats.vercel.app/api?username=t6tg)](https://github.com/t6tg) -->
 
 <!-- <img width="500" src="https://thumbs.gfycat.com/PowerlessPlumpBabirusa-max-1mb.gif" loading="lazy" alt="t6tg-cover" /> -->
 
