@@ -6,7 +6,7 @@
 <!-- <img width="500" src="https://thumbs.gfycat.com/PowerlessPlumpBabirusa-max-1mb.gif" loading="lazy" alt="t6tg-cover" /> -->
 
 - 🔭 I’m currently working (Part-time) at Dek-D Interactive Co,.Ltd ( [Writer Dev @Dek-D](https://novel.dek-d.com) )
-- 🐟 I'm currently studing at KMUTNB Y.4
+- 🐟 I'm currently studying at KMUTNB Y.4
 
 ```go
 package main
