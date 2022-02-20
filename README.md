@@ -14,36 +14,36 @@ package main
 import "fmt"
 
 type aboutMe struct {
-  pronouns    []string
-  languages   []string
-  hobbies     []string
-  interesting []string
-  frameworks  []string
-  databases   []string
-  etc         []string
-  work        string
+	pronouns    []string
+	languages   []string
+	hobbies     []string
+	interesting []string
+	frameworks  []string
+	databases   []string
+	etc         []string
+	work        string
 }
 
 func main() {
-  t6tg := aboutMe {
-    pronouns: ["He", "Him"],
-    languages: ["Go", "PHP", "Typescript", "Java"],
-    hobbies: ["Watching Anime", "Coding"],
-    interesting: ["Prisma", "ZeroMQ", "Microservice with Go", "Rust", "Flutter"]
-    framework: ["Reactjs", "NextJS", "NestJS", "Gin", "Fiber", "Expressjs"]
-    databases: ["MongoDB", "MariaDB", "SQL", "SQLite"]
-    etc: ["Elasticsearch","GraphQL", "nginx", "k8s", "docker"]
-    work: "Backend Developer @Dek-D"
-  }
-  
-  fmt.Printf("Pronouns: %v\n", t6tg.pronouns)
-  fmt.Printf("Languages I Know: %v\n", t6tg.languages)
-  fmt.Printf("My Hobbies: %v\n", t6tg.hobbies)
-  fmt.Printf("Interesting in: %v\n", t6tg.interesting)
-  fmt.Printf("Familiar Framework: %v\n", t6tg.frameworks)
-  fmt.Printf("Database: %v\n", t6tg.databases)
-  fmt.Printf("Etc: %v\n", t6tg.etc)
-  fmt.Printf("Work: %s\n", t6tg.work)
+	t6tg := aboutMe{
+		pronouns:    []string{"He", "Him"},
+		languages:   []string{"Go", "PHP", "Typescript", "Java"},
+		hobbies:     []string{"Watching Anime", "Coding"},
+		interesting: []string{"Prisma", "ZeroMQ", "Microservice with Go", "Rust", "Flutter"},
+		frameworks:  []string{"Reactjs", "NextJS", "NestJS", "Gin", "Fiber", "Expressjs"},
+		databases:   []string{"MongoDB", "MariaDB", "SQL", "SQLite"},
+		etc:         []string{"Elasticsearch", "GraphQL", "nginx", "k8s", "docker"},
+		work:        "Backend Developer @Dek-D",
+	}
+
+	fmt.Printf("Pronouns: %v\n", t6tg.pronouns)
+	fmt.Printf("Languages I Know: %v\n", t6tg.languages)
+	fmt.Printf("My Hobbies: %v\n", t6tg.hobbies)
+	fmt.Printf("Interesting in: %v\n", t6tg.interesting)
+	fmt.Printf("Familiar Framework: %v\n", t6tg.frameworks)
+	fmt.Printf("Database: %v\n", t6tg.databases)
+	fmt.Printf("Etc: %v\n", t6tg.etc)
+	fmt.Printf("Work: %s\n", t6tg.work)
 }
 ```
 <!-- 
