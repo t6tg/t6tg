@@ -5,8 +5,9 @@
 
 <!-- <img width="500" src="https://thumbs.gfycat.com/PowerlessPlumpBabirusa-max-1mb.gif" loading="lazy" alt="t6tg-cover" /> -->
 
-- 🔭 I’m currently working (Part-time) at Dek-D Interactive Co,.Ltd ( [Writer Dev @Dek-D](https://novel.dek-d.com) )
-- 🐟 I'm currently studying at KMUTNB Y.4
+- 🔭 I’m currently working at Dek-D Interactive Co.,Ltd ( [Writer Dev @Dek-D](https://novel.dek-d.com) )
+- King Mongkut's University of Technology North Bangkok , Thailand
+  - Bachelor of Science – Computer and Information Science Major 
 
 ```go
 package main
