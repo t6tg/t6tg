@@ -1,9 +1,4 @@
-### Hi there 🐈
-
-<!-- <img width="100" src="https://thumbs.gfycat.com/PowerlessPlumpBabirusa-max-1mb.gif"  loading="lazy" alt="t6tg-cover" /> -->
-<!-- [![t6tg's GitHub stats](https://github-readme-stats.vercel.app/api?username=t6tg)](https://github.com/t6tg) -->
-
-<!-- <img width="500" src="https://thumbs.gfycat.com/PowerlessPlumpBabirusa-max-1mb.gif" loading="lazy" alt="t6tg-cover" /> -->
+### Hi there <img src="https://i.pinimg.com/736x/4e/c4/f2/4ec4f2d69c9bc6b152abcb420252c3a8.jpg" alt="cat meme" width="28px" /> 
 
 - 🔭 I’m currently working at Dek-D Interactive Co.,Ltd ( [Writer Dev @Dek-D](https://novel.dek-d.com) )
 - King Mongkut's University of Technology North Bangkok , Thailand
@@ -48,8 +43,8 @@ func main() {
 }
 ```
 ### Social 
--  <img src="https://abs.twimg.com/favicons/twitter.2.ico" alt="t6tg_ twitter" width="18px" />  twitter: [@t6tg_](https://twitter.com/t6tg_)
--  <img src="https://static.cdninstagram.com/rsrc.php/v3/yt/r/30PrGfR3xhB.png" alt="m.mjames instagram" width="18px" /> Instagram: [m.mjames](https://instagram.com/m.mjames)
+-  <img src="https://abs.twimg.com/favicons/twitter.2.ico" alt="t6tg_ twitter" width="18px" /> [@t6tg_](https://twitter.com/t6tg_)
+-  <img src="https://static.cdninstagram.com/rsrc.php/v3/yt/r/30PrGfR3xhB.png" alt="m.mjames instagram" width="18px" /> [m.mjames](https://instagram.com/m.mjames)
 
 ### Resume
 - [Thanawat Gulati](https://to.t6tg.com/resume)
