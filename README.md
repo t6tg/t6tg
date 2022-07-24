@@ -32,7 +32,7 @@ func main() {
 		hobbies:     []string{"Watching Anime", "Coding"},
 		interesting: []string{"Prisma", "ZeroMQ", "Microservice with Go", "Rust", "Flutter"},
 		frameworks:  []string{"Reactjs", "NextJS", "NestJS", "Gin", "Fiber", "Expressjs"},
-		databases:   []string{"MongoDB", "MariaDB", "SQL", "SQLite"},
+		databases:   []string{"MongoDB", "MariaDB", "SQL", "SQLite", "Redis", "InfluxDB", "Memcached"},
 		etc:         []string{"Elasticsearch", "GraphQL", "nginx", "k8s", "docker"},
 		work:        "Backend Developer @Dek-D",
 	}
