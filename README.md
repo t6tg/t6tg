@@ -27,7 +27,7 @@ type aboutMe struct {
 
 func main() {
 	t6tg := aboutMe{
-		pronouns:    []string{"He", "Him"},
+		pronouns:    []string{"He", "Him", "They"},
 		languages:   []string{"Go", "PHP", "Typescript", "Java"},
 		hobbies:     []string{"Watching Anime", "Coding"},
 		interesting: []string{"Prisma", "ZeroMQ", "Microservice with Go", "Rust", "Flutter"},
@@ -47,12 +47,11 @@ func main() {
 	fmt.Printf("Work: %s\n", t6tg.work)
 }
 ```
-<!-- 
 ### Social 
 - 🐦 twitter: [@t6tg_](https://twitter.com/t6tg_)
-- 🌸 Instagram: [m.mjames](https://instagram.com/m.mjames) -->
+- 🌸 Instagram: [m.mjames](https://instagram.com/m.mjames)
 
-### CV / Resume
+### Resume
 - [Thanawat Gulati](https://to.t6tg.com/resume)
 
 ### LinkedIn
