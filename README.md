@@ -50,4 +50,4 @@ func main() {
 - [Thanawat Gulati](https://to.t6tg.com/resume)
 
 ### LinkedIn
-- [Linkedin](https://linkedin.com/in/thanawatgulati)
+- [Linkedin](https://linkedin.com/in/t6tg)
