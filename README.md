@@ -24,10 +24,10 @@ func main() {
 	t6tg := aboutMe{
 		pronouns:    []string{"He", "Him", "They"},
 		languages:   []string{"Go", "PHP", "Typescript", "Java"},
-		hobbies:     []string{"Watching Anime", "Coding"},
-		interesting: []string{"Prisma", "ZeroMQ", "Microservice with Go", "Rust", "Flutter"},
+		hobbies:     []string{"Watch Anime", "Coding"},
+		interesting: []string{"Rust", "Flutter"},
 		frameworks:  []string{"Reactjs", "NextJS", "NestJS", "Gin", "Fiber", "Expressjs"},
-		databases:   []string{"MongoDB", "MariaDB", "SQL", "SQLite", "Redis", "InfluxDB", "Memcached"},
+		databases:   []string{"MongoDB", "MariaDB", "SQL", "SQLite", "Redis", "Prometheus TSDB", "Memcached"},
 		etc:         []string{"Elasticsearch", "GraphQL", "nginx", "k8s", "docker"},
 		work:        "Backend Developer @Dek-D",
 	}
