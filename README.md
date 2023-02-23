@@ -42,12 +42,5 @@ func main() {
 	fmt.Printf("Work: %s\n", t6tg.work)
 }
 ```
-### Social 
--  <img src="https://abs.twimg.com/favicons/twitter.2.ico" alt="t6tg_ twitter" width="18px" /> [@t6tg_](https://twitter.com/t6tg_)
--  <img src="https://static.cdninstagram.com/rsrc.php/v3/yt/r/30PrGfR3xhB.png" alt="m.mjames instagram" width="18px" /> [m.mjames](https://instagram.com/m.mjames)
-
 ### Resume
 - [Thanawat Gulati](https://to.t6tg.com/resume)
-
-### LinkedIn
-- [Linkedin](https://linkedin.com/in/t6tg)
