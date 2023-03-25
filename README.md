@@ -1,6 +1,5 @@
 ### Hi there <img src="https://i.pinimg.com/736x/4e/c4/f2/4ec4f2d69c9bc6b152abcb420252c3a8.jpg" alt="cat meme" width="28px" /> 
 
-- 🔭 I’m currently working at Dek-D Interactive Co.,Ltd ( [Writer Dev @Dek-D](https://novel.dek-d.com) )
 - King Mongkut's University of Technology North Bangkok , Thailand
   - Bachelor of Science – Computer and Information Science Major 
 
@@ -17,7 +16,6 @@ type aboutMe struct {
 	frameworks  []string
 	databases   []string
 	etc         []string
-	work        string
 }
 
 func main() {
@@ -29,7 +27,6 @@ func main() {
 		frameworks:  []string{"Reactjs", "NextJS", "NestJS", "Gin", "Fiber", "Expressjs"},
 		databases:   []string{"MongoDB", "MariaDB", "SQL", "SQLite", "Redis", "Prometheus TSDB", "Memcached"},
 		etc:         []string{"Elasticsearch", "GraphQL", "nginx", "k8s", "docker"},
-		work:        "Backend Developer @Dek-D",
 	}
 
 	fmt.Printf("Pronouns: %v\n", t6tg.pronouns)
@@ -39,7 +36,6 @@ func main() {
 	fmt.Printf("Familiar Framework: %v\n", t6tg.frameworks)
 	fmt.Printf("Database: %v\n", t6tg.databases)
 	fmt.Printf("Etc: %v\n", t6tg.etc)
-	fmt.Printf("Work: %s\n", t6tg.work)
 }
 ```
 ### Resume
