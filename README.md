@@ -1,10 +1,5 @@
 <img src="https://raw.githubusercontent.com/t6tg/t6tg/master/img.webp" alt="capybara" />
 
-### Hi there <img src="https://i.pinimg.com/736x/4e/c4/f2/4ec4f2d69c9bc6b152abcb420252c3a8.jpg" alt="cat meme" width="28px" /> 
-
-- King Mongkut's University of Technology North Bangkok , Thailand
-  - Bachelor of Science – Computer and Information Science Major 
-
 ```go
 package main
 
@@ -40,5 +35,3 @@ func main() {
 	fmt.Printf("Etc: %v\n", t6tg.etc)
 }
 ```
-### Resume
-- [Thanawat Gulati](https://to.t6tg.com/resume)
