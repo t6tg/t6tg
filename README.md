@@ -22,7 +22,7 @@ func main() {
 		hobbies:     []string{"Watch Anime", "Coding"},
 		interesting: []string{"Rust", "Flutter"},
 		frameworks:  []string{"Reactjs", "NextJS", "NestJS", "Gin", "Fiber", "Expressjs"},
-		databases:   []string{"MongoDB", "MariaDB", "SQL", "SQLite", "Redis", "Prometheus TSDB", "Memcached"},
+		databases:   []string{"MongoDB", "MariaDB", "Postgresql", "SQL", "SQLite", "Redis", "Timescale TSDB", "Memcached"},
 		etc:         []string{"Elasticsearch", "GraphQL", "nginx", "k8s", "docker"},
 	}
 
