@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/t6tg/t6tg/master/bocchi-bocchi-the-rock.gif" alt="bocchi" width="100%" />
+<p align="center"><img src="https://raw.githubusercontent.com/t6tg/t6tg/master/bocchi-bocchi-the-rock.gif" alt="bocchi"  /></p>
 
 ```go
 package main
