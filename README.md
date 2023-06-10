@@ -1,6 +1,6 @@
 <p align="center"><img src="https://raw.githubusercontent.com/t6tg/t6tg/master/bocchi-bocchi-the-rock.gif" alt="bocchi"  /></p>
 
-## aboute me.
+## about me.
 - Programming Languages
   - Go
   - PHP
