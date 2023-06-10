@@ -2,6 +2,7 @@
 
 <p align="center"><img src="https://raw.githubusercontent.com/t6tg/t6tg/master/bocchi-bocchi-the-rock.gif" alt="bocchi"  /></p>
 
+## about me.
 My nickname is James, I'm a Back-end Developer at Website Dek-D ( Novel Team ), I'm graduated from Bachelor of Computer Science from King Mongkut's University of Technology North Bangkok (KMUTNB), I'm like to learn anything about computer and technology.
 
 Talk with me
@@ -9,7 +10,7 @@ Talk with me
 - Facebook: <a href="https://fb.me/mjamesthanawat" alt="twitter-t6tg" target="_blank">@mjamesthanawat</a>
 - Instagram: <a href="https://instagram.com/m.mjames" alt="twitter-t6tg" target="_blank">@m.mjames</a>
 
-## about me.
+## Preference.
 - Programming Languages
   - Go
   - PHP
