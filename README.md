@@ -1,5 +1,7 @@
 <p align="center"><img src="https://raw.githubusercontent.com/t6tg/t6tg/master/bocchi-bocchi-the-rock.gif" alt="bocchi"  /></p>
 
+I'm a Back-end Developer at Website Dek-D ( Novel Team ), I'm graduated from Bachelor of Computer Science from King Mongkut's University of Technology North Bangkok (KMUTNB), I'm like to learn anything about computer and technology.
+
 ## about me.
 - Programming Languages
   - Go
