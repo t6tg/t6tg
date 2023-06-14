@@ -47,8 +47,3 @@ Talk with me
   - K8S
   - Docker
   - Google Cloud Run
-
-- Hobbies
-  - Watch Anime
-  - Coding
-
