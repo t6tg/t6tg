@@ -22,6 +22,7 @@ Talk with me
   - Flutter
   - Scala
   - Terraform and Pulumi
+  - Ruby
 
 - Framework
   - ReactJS
